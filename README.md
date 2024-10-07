@@ -31,6 +31,6 @@ Port : 5433
 # ** happy practising ** #
 
 
-Credits - For databse dump -
+Credits - For database dump -
 
 https://github.com/neondatabase/postgres-sample-dbs?tab=readme-ov-file#employees-database
