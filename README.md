@@ -31,6 +31,12 @@ Port : 5433
 # ** happy practising ** #
 
 
+
+# ER diagram
+
+![ER Diagram](sql-docker/er-diagram.png)
+
+
 Credits - For database dump -
 
 https://github.com/neondatabase/postgres-sample-dbs?tab=readme-ov-file#employees-database
