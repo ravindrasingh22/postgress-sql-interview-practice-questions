@@ -29,3 +29,8 @@ Host : localhost
 Port : 5433
 
 # ** happy practising ** #
+
+
+Credits - For databse dump -
+
+https://github.com/neondatabase/postgres-sample-dbs?tab=readme-ov-file#employees-database
