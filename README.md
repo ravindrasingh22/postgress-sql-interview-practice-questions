@@ -1,4 +1,7 @@
+Star it if it help you to save time and practice more complex SQL queries.
+
 ## Postgress Container for practicing SQL on local
+
 
 
 ## Setup Instructions
