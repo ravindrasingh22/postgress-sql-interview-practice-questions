@@ -1,0 +1,19 @@
+version: '3.1'
+
+services:
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: employee_u
+      POSTGRES_PASSWORD: employee_p
+      POSTGRES_DB: employee_db
+    volumes:
+      - ./employees.dump:/docker-entrypoint-initdb.d/employees.dump
+      - ./init.sh:/docker-entrypoint-initdb.d/init.sh
+      - ./db_data:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+volumes:
+  db_data:
+

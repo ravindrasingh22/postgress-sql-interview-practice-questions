@@ -1,0 +1,6 @@
+# Ignore macOS system files
+.DS_Store
+sql-docker/.DS_Store
+
+# Ignore Docker data volumes
+sql-docker/db_data/
