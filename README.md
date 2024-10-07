@@ -1,4 +1,4 @@
-Star it if it help you to save time and practice more complex SQL queries.
+"Star it if it helps you to save time and practice more complex SQL queries."
 
 ## Postgress Container for practicing SQL on local
 
